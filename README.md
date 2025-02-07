@@ -10,5 +10,8 @@ pip install beautifulsoup4 pandas
 3️⃣ Expected Output
 
 Sample scraped_data.csv
-![image](https://github.com/user-attachments/assets/fa8c3ee1-dc64-459c-925c-e4df52e9d295)
+Title	Price	Link
+Lenovo IdeaPad Slim 3	₹55,990	View Product
+HP Pavilion 15	₹67,499	View Product
+
 
